@@ -9,8 +9,18 @@ Request to join the slack channel [here](https://github.com/MaraAlexeev/clinical
 
 ## Schedule
 
+## Ideas for lab
+
+
+
 ## Reading Materials Unabridged
 
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2756111
 
 https://ecqi.healthit.gov/sites/default/files/Getting-Started-with-CQL-508.pdf
+
+https://www.healthit.gov/sites/default/files/page/2018-04/Optimizing_Strategies_508.pdf
+
+https://www.cdc.gov/dhdsp/pubs/guides/best-practices/clinical-decision-support.htm
+
+https://circleinformatics.org/products/publications/
