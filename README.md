@@ -5,7 +5,7 @@ Please request access to the repo if you would like to add materials or put a li
 
 ## Slack Channel
 
-Request to join the slack channel by adding an issue for the repo.
+Request to join the slack channel [here](https://github.com/MaraAlexeev/clinical_decision_support/issues/1).
 
 ## Schedule
 
