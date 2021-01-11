@@ -24,3 +24,5 @@ https://www.healthit.gov/sites/default/files/page/2018-04/Optimizing_Strategies_
 https://www.cdc.gov/dhdsp/pubs/guides/best-practices/clinical-decision-support.htm
 
 https://circleinformatics.org/products/publications/
+
+https://www.researchgate.net/publication/330156307_Cranky_comments_detecting_clinical_decision_support_malfunctions_through_free-text_override_reasons
