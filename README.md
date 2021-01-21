@@ -14,6 +14,7 @@ Request to join the slack channel [here](https://github.com/MaraAlexeev/clinical
 
 
 ## Reading Materials Unabridged
+https://academic.oup.com/jamia/article/18/3/232/698526
 
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2756111
 
